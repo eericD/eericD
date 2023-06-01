@@ -1,1 +1,1 @@
-# Eric Duart
+<img src="assets/banner.png" />
